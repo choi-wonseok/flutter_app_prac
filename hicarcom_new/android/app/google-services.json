@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484853467622",
+    "project_id": "newproject-a03ef",
+    "storage_bucket": "newproject-a03ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484853467622:android:935423187c185f7781ae27",
+        "android_client_info": {
+          "package_name": "com.hicarcom.hicarcom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASwqynTx0ol-hsjONY1_hNF9CE9Dm1iLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
